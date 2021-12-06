@@ -14,8 +14,9 @@
     <li> Atualmente tenho 1,83 ... </li>
     <li> Conheci a programação com 8 anos ... </li>
     <li> comecei a programar com 9 anos porém tive que dar um tempo pois eu estava ficando muito tóxico.</li>
+    <li> gosto muito de animes, preferidos (kenja no mago, koi to uso, tsuki ga kirei) </li>
+        <li> gosto de todo tipo de música mas odeio com ódio (kpop, "FUNK")
   </ul>
-p
     Agora vou falar sobre as linguagens que eu sei ...: -:
 </p>
 <ul>
