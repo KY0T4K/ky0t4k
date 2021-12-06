@@ -14,7 +14,6 @@
     <li> Conheci a programação com 8 anos ... </li>
     <li> comecei a programar com 9 anos porém tive que dar um tempo pois eu estava ficando muito tóxico.</li>
   </ul>
-p
     Agora vou falar sobre as linguagens que eu sei ...: -:
 </p>
 <ul>
@@ -30,8 +29,9 @@ p
        🥋 | JavaScript - não tenho muito oque falar de js simplesmente amo o jeito de poder criar novas coisas em cods.
     </li>
     
-    <li> OBS: Sei outras coisas como "xml, vb, ruby, typescript, css, java, etc" porém tenho preguiça de digitar tudo...
-    </li> 
+    <li> 
+OBS: Sei outras coisas como "xml, vb, ruby, typescript, css, java, etc" porém tenho preguiça de digitar tudo...
+    </li>
 </ul>
 </blockquote>
     <h3>
