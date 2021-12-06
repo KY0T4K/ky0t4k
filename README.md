@@ -52,6 +52,6 @@
 </div>
 <hr>
 <div align = "center">
-     <a href="https://www.instagram.com/invites/contact/?i=6inbi3sxm1zw&utm_content=l509tcl"> <img alt = "Version" src = "https://img.shields.io/static/v1?label=Instagram&message=KY0T4K&style=for-the- emblema & color = red & logo = instagram "/> </a>
-     <a href="https://wa.me/556798650047"> <img alt = "Version" src = "https://img.shields.io/static/v1?label=Whatsapp&message=KY0T4K&style=for-the- emblema & color = green & logo = whatsapp "/> </a>
+     <a href="https://www.instagram.com/invites/contact/?i=6inbi3sxm1zw&utm_content=l509tcl"> <img alt = "Version" src = "https://img.shields.io/static/v1?label=Instagram&message=KY0T4K&style=for-the- emblema & color = blue & logo = instagram "/> </a>
+     <a href="https://wa.me/556798650047"> <img alt = "Version" src = "https://img.shields.io/static/v1?label=Whatsapp&message=KY0T4K&style=for-the- emblema & color = red & logo = whatsapp "/> </a>
 </div>
