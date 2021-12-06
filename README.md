@@ -5,11 +5,12 @@
 
 <hr>
 
-<h1> 👺👈| Sobre mim ... </h1>
-            <h2> o tralha da cvc 🥋🇦🇱 <h2>
+<h1> 👺👈| about me !</h1>
+            <h2> o tralha da cvc 🥋🇦🇱, black hat from shoper<h2>
+<h3> Known as KY0T4K <h3>
 <blockquote>
   <ul>
-    <li> Tenho 17 anos ... </li>
+    <li> Tenho 17 anos </li>
     <li> Atualmente tenho 1,83 ... </li>
     <li> Conheci a programação com 8 anos ... </li>
     <li> comecei a programar com 9 anos porém tive que dar um tempo pois eu estava ficando muito tóxico.</li>
@@ -19,7 +20,7 @@ p
 </p>
 <ul>
     <li>
-       🐧 | Shell Script - Comecei a estudar por recomendacao a 2 anos e venho estudando ate hoje...
+       🔥 | TypeScript - Comecei a estudar por recomendacao a 2 anos e venho estudando ate hoje !
     </li>
     <li>
        👺 | HTML - mesmo não sendo uma linguagem de programacao é o trabalho que eu mais gosto de fazer!!
@@ -27,8 +28,17 @@ p
     <li>
        🥋 | JavaScript - não tenho muito oque falar de js simplesmente amo o jeito de poder criar novas coisas em cods.
     </li>
+     <li> 
+       🇦🇱 | C++ - aprendi pois estava curioso
+     </li>
+     <li>
+       🌹 | Python - amo muito essa lng, me ensinou coisas inigualáveis.
+     </l1>
+     <li> 
+       👑 | PHP - nem tenho oque falar dessa coisa maravilhosa.
+     </li>
     <li> 
-       OBS: Sei outras coisas como "xml, vb, ruby, typescript, css, java, etc" porém tenho preguiça de digitar tudo...
+       OBS: Sei outras coisas como "xml, vb, ruby, typescript, css, java, etc" porém tenho preguiça de digitar tudo ^°^
     </li> 
 </ul>
 </blockquote>
