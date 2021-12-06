@@ -30,7 +30,8 @@ p
        🥋 | JavaScript - não tenho muito oque falar de js simplesmente amo o jeito de poder criar novas coisas em cods.
     </li>
     
-    <li> OBS: Sei outras coisas como "xml, vb, ruby, typescript, css, java, etc" porém tenho preguiça de digitar tudo...
+    <li> 
+       OBS: Sei outras coisas como "xml, vb, ruby, typescript, css, java, etc" porém tenho preguiça de digitar tudo...
     </li> 
 </ul>
 </blockquote>
