@@ -1,5 +1,5 @@
 <center>
-    <img width = 200 src = "https://uploaddeimagens.com.br/images/003/573/185/full/PicsArt_12-06-05.39.37.jpg?1638829649">
+    <img width = 300 src = "https://uploaddeimagens.com.br/images/003/573/185/full/PicsArt_12-06-05.39.37.jpg?1638829649">
     <div align = "center">
 </center>
 
@@ -17,7 +17,7 @@
     <li> gosto muito de animes, preferidos (kenja no mago, koi to uso, tsuki ga kirei) </li>
         <li> gosto de todo tipo de música mas odeio com ódio (kpop, "FUNK")
   </ul>
-    Agora vou falar sobre as linguagens que eu sei ...: -:
+    Agora vou falar sobre as linguagens que eu sei :<
 </p>
 <ul>
     <li>
