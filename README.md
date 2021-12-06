@@ -1,8 +1,6 @@
 <center>
-    <img width = 120 src = "https://uploaddeimagens.com.br/imagens/9JWbUEE">
+    <img width = 200 src = "https://uploaddeimagens.com.br/images/003/573/185/full/PicsArt_12-06-05.39.37.jpg?1638829649">
     <div align = "center">
-        <img width = 130 src = https: //komarev.com/ghpvc/? username = KY0T4K>
-        <img width = 103 src = https: //img.shields.io/github/followers/KY0T4K.svg? style = social & label = Follow & maxAge = 2592000>
 </center>
 
 <hr>
