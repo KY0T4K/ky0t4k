@@ -24,7 +24,7 @@
        🔥 | TypeScript - Comecei a estudar por recomendacao a 2 anos e venho estudando ate hoje !
     </li>
     <li>
-       👺 | HTML - mesmo não sendo uma linguagem de programacao é o trabalho que eu mais gosto de fazer!!
+       👺 | HTML - mesmo não sendo uma linguagem de programação é o trabalho que eu mais gosto de fazer!!
     </li>
     <li>
        🥋 | JavaScript - não tenho muito oque falar de js simplesmente amo o jeito de poder criar novas coisas em cods.
