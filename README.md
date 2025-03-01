@@ -1,13 +1,12 @@
 <center>
-    <img width = 300 src = "https://br.pinterest.com/pin/59320920085844409/">
     <div align = "center">
 </center>
 
 <hr>
 
-<h1> about me !</h1>
+<h1> Sobre mim </h1>
             <h2> Programo por diversão <h2>
-<h3> Known as syze <h3>
+<h3> Conheça sobre o syze <h3>
 <blockquote>
   <ul>
     <li> Tenho 17 anos </li>
@@ -31,9 +30,6 @@
      <li> 
        L | Lua - A linguagem com que mais tenho intimidade, minha primeira linguagem e meu primeiro amor
      </li>
-    <li> 
-    
-    </li> 
 </ul>
 </blockquote>
     <h3>
