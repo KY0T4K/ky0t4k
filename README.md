@@ -1,45 +1,38 @@
 <center>
-    <img width = 300 src = "https://uploaddeimagens.com.br/images/003/575/597/full/20211207_232815.png?1638934254">
+    <img width = 300 src = "https://br.pinterest.com/pin/59320920085844409/">
     <div align = "center">
 </center>
 
 <hr>
 
-<h1> 👺👈| about me !</h1>
-            <h2> o tralha da cvc 🥋🇦🇱, black hat from shoper<h2>
-<h3> Known as KY0T4K <h3>
+<h1> about me !</h1>
+            <h2> Programo por diversão <h2>
+<h3> Known as syze <h3>
 <blockquote>
   <ul>
     <li> Tenho 17 anos </li>
     <li> Atualmente tenho 1,83 ... </li>
     <li> Conheci a programação com 8 anos ... </li>
-    <li> comecei a programar com 9 anos porém tive que dar um tempo pois eu estava ficando muito tóxico.</li>
-    <li> gosto muito de animes, preferidos (kenja no mago, koi to uso, tsuki ga kirei) </li>
-        <li> gosto de todo tipo de música mas odeio com ódio (kpop, "FUNK")
+    <li> comecei a programar com 9 anos porém tive que dar um tempo pois estava tendo uns problemas na minha vida</li>
+    <li> Tenho experiencias diversas </li>
+        
   </ul>
-    Agora vou falar sobre as linguagens que eu sei :<
+    Agora vou falar sobre as linguagens que eu sei 
 </p>
 <ul>
     <li>
-       🔥 | TypeScript - Comecei a estudar por recomendacao a 2 anos e venho estudando ate hoje !
+       P | Python - Comecei a estudar por recomendacao a 2 anos e venho estudando até hoje !
     </li>
     <li>
-       👺 | HTML - mesmo não sendo uma linguagem de programação é o trabalho que eu mais gosto de fazer!!
+        H | HTML - mesmo não sendo uma linguagem de programação é o trabalho que eu mais gosto de fazer!!
     </li>
     <li>
-       🥋 | JavaScript - não tenho muito oque falar de js simplesmente amo o jeito de poder criar novas coisas em cods.
-    </li>
+       J | JavaScript - Sigo em frente aprendendo e estudando. </li>
      <li> 
-       🇦🇱 | C++ - aprendi pois estava curioso
-     </li>
-     <li>
-       🌹 | Python - amo muito essa lng, me ensinou coisas inigualáveis.
-     </l1>
-     <li> 
-       👑 | PHP - nem tenho oque falar dessa coisa maravilhosa.
+       L | Lua - A linguagem com que mais tenho intimidade, minha primeira linguagem e meu primeiro amor
      </li>
     <li> 
-       OBS: Sei outras coisas como "xml, vb, ruby, typescript, css, java, etc" porém tenho preguiça de digitar tudo ^°^
+    
     </li> 
 </ul>
 </blockquote>
